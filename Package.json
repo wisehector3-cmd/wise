@@ -1,0 +1,10 @@
+{
+  "name": "wise-backend",
+  "version": "1.0.0",
+  "description": "Wise Trading Bot Backend",
+  "main": "index.js",
+  "dependencies": {
+    "binance-api-node": "^0.12.4",
+    "node-fetch": "^2.6.7"
+  }
+}
